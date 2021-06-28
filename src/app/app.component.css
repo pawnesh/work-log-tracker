@@ -1,0 +1,39 @@
+.container {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+
+footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.input{
+    padding-top: 10px;
+}
+
+.task-list{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.task-card{
+    margin-bottom: 10px;
+}
+
+.card-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+}
+
+.blank{
+    padding: 10px;
+    font-size: 30px
+}
